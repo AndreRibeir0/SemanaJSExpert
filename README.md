@@ -1,5 +1,9 @@
 # Semana JS Expert 
 
+<h4 align="center"> 
+	🚧  React Select 🚀 Em construção...  🚧
+</h4>
+
 ## Zoom Clone
 
 Projeto clone do app Zoom.
